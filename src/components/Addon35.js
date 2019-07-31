@@ -5,7 +5,8 @@ class Addon17 extends Component {
     render() {
         return (
             <div>
-                <FiddleComponent code="<div>this is Addon17</div>" ></FiddleComponent>
+                <FiddleComponent code="<div>this is Addon35</div>" ></FiddleComponent>
+                Ezgi Turkokuloglu
             </div>
         );
     }
